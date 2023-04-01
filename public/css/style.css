@@ -1,0 +1,67 @@
+.container-fluid{
+    background-color: rgba(0, 0, 0, 0.568);
+}
+.Netflix{
+    color:red;
+    font-family:'Franklin Gothic Medium';
+    text-transform:uppercase;
+    font-size: xxx-large;
+    font-weight: bolder;
+    padding-left: 180px;
+    padding-top: 5px;
+}
+.dropdown{
+float: right;
+padding-right: 325px;
+}
+.btn{
+    border-color: azure;
+}
+.signin{
+    background-color: red;
+    float: right;
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+    margin-left: 25px;
+    font-style: normal;
+    font-weight: 600;
+    width: 100px;
+    height: 26px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5px;
+}
+.starting-content{
+    text-align: center;
+    color: white;
+    margin-top: 256px;
+}
+.contents1{
+    font-size: xxx-large;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.contents{
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: -56px;
+    text-transform: capitalize;
+}
+.email-content{
+    font-size: xx-large;
+    background-color: rgba(0, 0, 0, 0.568);
+}
+.get{
+    background-color: red;
+    color: white;
+    display:inline-table;
+    width:156px;
+    height: 30px;
+    font-size:x-large;
+    margin-left: 15px;
+    font-style: normal;
+    padding-bottom: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    }
